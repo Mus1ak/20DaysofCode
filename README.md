@@ -6,17 +6,17 @@
 ### Hello! 
 ### This is __20DaysOfCode__ challenge starting from 9 January, 2023.  In this I'm mainly focusing on **Problem Solving in javaScript**.
 
-[x] Day 1
+* [x] Day 1
 
-[x] Day 2
+* [x] Day 2
 
-[x] Day 3
+* [x] Day 3
 
-[x] Day 4
+* [x] Day 4
 
-[x] Day 5
+* [x] Day 5
 
-[x] Day 6
+* [x] Day 6
 
-[x] Day 7
+* [x] Day 7
 
