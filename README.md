@@ -6,7 +6,8 @@
 ### Hello! 
 ### This is __20DaysOfCode__ challenge starting from 9 January, 2023.  In this I'm mainly focusing on **Problem Solving in javaScript**.
 
-* [x] Day 1 : [Number of digits](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%201)
+* [x] Day 1 : | [Number of digits](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%201) | [![Markdown Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Mus1ak/20DaysofCode/blob/main/Days/Day%201/Day1.js) |
+| --- |--- |
 
 * [x] Day 2
 
