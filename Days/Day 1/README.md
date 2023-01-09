@@ -11,7 +11,7 @@
 
 ```Test Cases```
 
-```javascript
+```python
 Input : 2700
 Output : output for n1 : 2700
 4
