@@ -19,6 +19,3 @@ Output : output for n1 : 100092019
 9
 ``` 
 
-**Screenshot of the output** : 
-
-![Markdown Image](https://user-images.githubusercontent.com/109837813/211266307-59ff50fa-c007-4a93-a0df-800afef55bd1.png)
