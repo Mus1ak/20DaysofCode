@@ -6,7 +6,7 @@
 ### Hello! 
 ### This is __20DaysOfCode__ challenge starting from 9 January, 2023.  In this I'm mainly focusing on **Problem Solving in javaScript**.
 
-* [x] Day 1 [x] Day 1 [Travel](http://Google.com "Google")
+* [x] Day 1 [Travel](http://Google.com "Google")
 
 * [x] Day 2
 
