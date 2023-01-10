@@ -8,7 +8,7 @@
 
 * [x] Day 1 : [Number of digits](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%201)
 
-* [x] Day 2
+* [x] Day 2 : [Smallest & Biggest Number from an array](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%202)
 
 * [x] Day 3
 
