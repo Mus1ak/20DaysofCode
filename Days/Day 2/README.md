@@ -2,7 +2,7 @@
 ## Day 2 : Find the Smallest and Biggest Numbers from an array
 
 ###### Post
-[![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7018138916432064514-H5hP?utm_source=share&utm_medium=member_desktop)
+[![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7018566994023096320-dC9G?utm_source=share&utm_medium=member_desktop)
 
 ###### Code
 [![Markdown Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Mus1ak/20DaysofCode/blob/main/Days/Day%202/Day2.js)
