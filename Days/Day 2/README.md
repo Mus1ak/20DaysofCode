@@ -18,7 +18,7 @@ output for Test Case 1
 Minimum: 1
 Maximum: 24
 
-__________________
+_________________________________
 
 Input : number2 = [4, 55, -2, 10, 90, 69, 27, 192]
 Output :
