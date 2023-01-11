@@ -10,7 +10,7 @@
 
 * [x] Day 2 : [Smallest & Biggest Number from an array](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%202)
 
-* [x] Day 3
+* [x] Day 3 : [What's Hiding Amongst the Crowd?](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%203)
 
 * [x] Day 4
 
