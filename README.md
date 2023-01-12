@@ -12,7 +12,7 @@
 
 * [x] Day 3 : [What's Hiding Amongst the Crowd?](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%203)
 
-* [x] Day 4
+* [x] Day 4 : [Compare Age](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%204)
 
 * [x] Day 5
 
