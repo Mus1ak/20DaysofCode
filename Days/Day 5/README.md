@@ -10,13 +10,10 @@
 **Problem** : Write a function that takes in a sentence as a string and replaces specific words "smile", "smiling", "cry", "cries", "angry", "anger", "annoying", "annoyed" with their corresponding emoticons "🙂", "😭", "😡", "😒" respectively, using javaScript.
 
 |word  |  emoticon|
--------------------
+|-------|-----------|
 |smile |    🙂|
--------------------
 |cry    |   😭|
--------------------
 |angry  |   😡|
--------------------
 |annoying|  😒|
 
 ```Test Cases```
