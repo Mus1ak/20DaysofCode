@@ -16,7 +16,7 @@
 
 * [x] Day 5 : [Emotify the Sentence](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%205)
 
-* [x] Day 6
+* [x] Day 6 : [Prefix vs Suffix](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%206)
 
 * [x] Day 7
 
