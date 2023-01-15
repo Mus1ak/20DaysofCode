@@ -1,5 +1,5 @@
 ###### Days of Code Streak 
-## Day 4 : Prefix vs Suffix
+## Day 6 : Prefix vs Suffix
 
 ###### Post
 [![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7019949716356444160-1w6y?utm_source=share&utm_medium=member_desktop)
