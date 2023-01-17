@@ -14,10 +14,12 @@
 ```python
 Input : moveMENT
 Output : MENTmove
----
+_________________________________
+
 Input : ashDa
 Output : Dasha
----
+_________________________________
+
 Input : shOrtCAKE
 Output : OCAKEshrt
 ``` 
