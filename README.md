@@ -22,7 +22,7 @@
 
 * [x] Day 8 : [Convenience Store](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%208)
 
-* [x] Day 9
+* [x] Day 9 : [Move Capital Letters to the Front](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%209)
 
 * [x] Day 10
 
