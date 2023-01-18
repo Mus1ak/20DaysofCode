@@ -6,6 +6,7 @@
 ### Hello! 
 ### This is __20DaysOfCode__ challenge starting from 9 January, 2023.  In this I'm mainly focusing on **Problem Solving in javaScript**.
 
+###### Week 1 
 * [x] Day 1 : [Number of digits](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%201)
 
 * [x] Day 2 : [Smallest & Biggest Number from an array](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%202)
@@ -19,7 +20,7 @@
 * [x] Day 6 : [Prefix vs Suffix](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%206)
 
 * [x] Day 7 : [Remove Trailing and Leading Zeros](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%207)
-###### week 2 
+###### Week 2 
 
 * [x] Day 8 : [Convenience Store](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%208)
 
