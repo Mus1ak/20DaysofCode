@@ -19,7 +19,7 @@
 * [x] Day 6 : [Prefix vs Suffix](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%206)
 
 * [x] Day 7 : [Remove Trailing and Leading Zeros](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%207)
-###### week 2 ---
+###### week 2 
 
 * [x] Day 8 : [Convenience Store](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%208)
 
