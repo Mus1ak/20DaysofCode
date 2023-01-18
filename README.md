@@ -36,6 +36,7 @@
 * [x] Day 13
 
 * [x] Day 14
+<h6 id="week-3" align="center">Week 3</h6>
 
 * [x] Day 15
 
