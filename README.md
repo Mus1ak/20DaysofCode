@@ -6,7 +6,7 @@
 ### Hello! 
 ### This is __20DaysOfCode__ challenge starting from 9 January, 2023.  In this I'm mainly focusing on **Problem Solving in javaScript**.
 
-<h6 id="week-1" align="center">Week 1</h6>
+<p align="center"><code>Week 1</code></p>
 
 * [x] Day 1 : [Number of digits](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%201)
 
