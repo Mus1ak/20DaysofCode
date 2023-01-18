@@ -5,7 +5,7 @@
 [![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7021410021729054720-fADp?utm_source=share&utm_medium=member_desktop)
 
 ###### Code
-[![Markdown Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Mus1ak/20DaysofCode/blob/main/Days/Day%210/Day10.js)
+[![Markdown Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Mus1ak/20DaysofCode/blob/main/Days/Day%2010/Day10.js)
 
 **Problem** : Create a function which validates whether a character string is a vowel sandwich.
 
