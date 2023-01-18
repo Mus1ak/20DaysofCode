@@ -17,6 +17,7 @@
 * [x] Day 5 : [Emotify the Sentence](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%205)
 
 * [x] Day 6 : [Prefix vs Suffix](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%206)
+###### week 2
 
 * [x] Day 7 : [Remove Trailing and Leading Zeros](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%207)
 
@@ -25,7 +26,6 @@
 * [x] Day 9 : [Move Capital Letters to the Front](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%209)
 
 * [x] Day 10 : [Vowel Sandwich](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2010)
-###### Date : 18-01-2023
 
 * [x] Day 11
 
