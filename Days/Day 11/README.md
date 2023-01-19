@@ -1,63 +1,29 @@
-<!-- # 20 Days of Code
+###### Days of Code Streak 
+## Day 11 : Replace Letters With Position In Alphabet
 
+###### Post
+[![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7021777492847804416--NNU?utm_source=share&utm_medium=member_desktop)
 
+###### Code
+[![Markdown Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Mus1ak/20DaysofCode/blob/main/Days/Day%2011/Day11.js)
 
-### Hello! 
-- L
-### This is __20DaysOfCode__ challenge starting from 9 January, 2023.  In this I'm mainly focusing on Problem Solving in javaScript.
+**Problem** :  Create a function that takes a string and replaces each letter with its appropriate position in the alphabet. 
+- "a" is 1, 
+- "b" is 2,
+- "c" is 3, etc, etc.
 
----
-[x] Day 1 [Travel](http://Google.com "Google")
+```Test Cases```
 
-[x] Day 2
+```python
+Input : 
+live a life you will remember.
+Output : 12 9 22 5 1 12 9 6 5 25 15 21 23 9 12 12 18 5 13 5 13 2 5 18
 
-[x] Day 3
-
-[x] Day 4
-
-[x] Day 5
-
-[x] Day 6
-
-[x] Day 7 -->
-<!-- ------------------------------------------ -->
-<!-- ###### Days of Code Streak 
-## Day 1 : Number of Digits in a number -->
-
-
-<!-- [![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7018138916432064514-H5hP?utm_source=share&utm_medium=member_desktop "LinkedIn Post")  
-
-
-**Problem** : Create a function that will return an integer number corresponding to the amount of digits in the given integer num.
-
-```javascript
-Input : 2700
-Output : output for n1 : 2700
-4
 _________________________________
 
-Input : 100092019
-Output : output for n1 : 100092019
-9
+Input : 
+Sky full of stars.
+Output : 19 11 25 6 21 12 12 15 6 19 20 1 18 19 
 ``` 
 
-**Screenshot of the output** : 
 
-![Markdown Image](https://user-images.githubusercontent.com/109837813/211266307-59ff50fa-c007-4a93-a0df-800afef55bd1.png) -->
-<!-- -------------------------- -->
-
-#### Hi there 👋
-
-| ![loop-alien-abduction](https://66.media.tumblr.com/tumblr_mairkuw6QB1rfjowdo1_500.gif) | ![](https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}) |
---------|---------
-|Md. Mustak Chudhary|Student at VIT Bhopal |
-
-[![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustbemustak/ "LinkedIn") 
-[![Markdown Logo](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/sky9nine)
-
----
-
-Music is ♡
-<p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o27432rmwtps6w6w7r4h2rsjou">
-</p>
