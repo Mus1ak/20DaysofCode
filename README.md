@@ -29,7 +29,7 @@
 
 * [x] Day 10 : [Vowel Sandwich](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2010)
 
-* [x] Day 11
+* [x] Day 11 : [Replace Letters With Position In Alphabet](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2011)
 
 * [x] Day 12
 
