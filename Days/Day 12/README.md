@@ -1,5 +1,5 @@
 ###### Days of Code Streak 
-## Day 11 : Double Character Swap
+## Day 12 : Double Character Swap
 
 ###### Post
 [![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7022137839161159680-GSwV?utm_source=share&utm_medium=member_desktop)
