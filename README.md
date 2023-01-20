@@ -31,7 +31,7 @@
 
 * [x] Day 11 : [Replace Letters With Position In Alphabet](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2011)
 
-* [x] Day 12
+* [x] Day 12 : [Double Character Swap](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2012)
 
 * [x] Day 13
 
