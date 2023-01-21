@@ -1,63 +1,34 @@
-<!-- # 20 Days of Code
+###### Days of Code Streak 
+## Day 13 : Track the robot
 
+###### Post
+[![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7022472741039550464-MXWw?utm_source=share&utm_medium=member_desktop)
 
+###### Code
+[![Markdown Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Mus1ak/20DaysofCode/blob/main/Days/Day%2013/Day13.js)
 
-### Hello! 
-- L
-### This is __20DaysOfCode__ challenge starting from 9 January, 2023.  In this I'm mainly focusing on Problem Solving in javaScript.
+**Problem** :  This robot roams around a 2D grid. It starts at (0, 0) facing North. After each time it moves, the robot rotates 90 degrees clockwise. Given the amount the robot has moved each time, you have to calculate the robot's final position.
 
----
-[x] Day 1 [Travel](http://Google.com "Google")
+To illustrate, if the robot is given the movements 20, 30, 10, 40 then it will move:
 
-[x] Day 2
+- 20 steps North, now at (0, 20)
+- 30 steps East, now at (30, 20)
+- 10 steps South. now at (30, 10)
+- 40 steps West, now at (-10, 10)
+...and will end up at coordinates (-10, 10).
 
-[x] Day 3
+```Test Cases```
 
-[x] Day 4
+```python
+Input : 
+finalPosition([20, 30, 10, 40])
+finalPosition([0, 0]);
+finalPosition([-10, 20, 10])
 
-[x] Day 5
-
-[x] Day 6
-
-[x] Day 7 -->
-<!-- ------------------------------------------ -->
-<!-- ###### Days of Code Streak 
-## Day 1 : Number of Digits in a number -->
-
-
-<!-- [![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mustbemustak_daysofcode-vitbhopalgaming-20daysofcode-activity-7018138916432064514-H5hP?utm_source=share&utm_medium=member_desktop "LinkedIn Post")  
-
-
-**Problem** : Create a function that will return an integer number corresponding to the amount of digits in the given integer num.
-
-```javascript
-Input : 2700
-Output : output for n1 : 2700
-4
-_________________________________
-
-Input : 100092019
-Output : output for n1 : 100092019
-9
+Output : 
+(-10, 10)
+(0, 0)
+(20, -20)
 ``` 
 
-**Screenshot of the output** : 
 
-![Markdown Image](https://user-images.githubusercontent.com/109837813/211266307-59ff50fa-c007-4a93-a0df-800afef55bd1.png) -->
-<!-- -------------------------- -->
-
-#### Hi there 👋
-
-| ![loop-alien-abduction](https://66.media.tumblr.com/tumblr_mairkuw6QB1rfjowdo1_500.gif) | ![](https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}) |
---------|---------
-|Md. Mustak Chudhary|Student at VIT Bhopal |
-
-[![Markdown Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustbemustak/ "LinkedIn") 
-[![Markdown Logo](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/sky9nine)
-
----
-
-Music is ♡
-<p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o27432rmwtps6w6w7r4h2rsjou">
-</p>
