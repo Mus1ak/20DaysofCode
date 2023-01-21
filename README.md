@@ -33,7 +33,7 @@
 
 * [x] Day 12 : [Double Character Swap](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2012)
 
-* [x] Day 13
+* [x] Day 13 : [Track the robot](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2013)
 
 * [x] Day 14
 <h6 id="week-3" align="center">Week 3</h6>
