@@ -38,7 +38,7 @@
 * [x] Day 14 : [Unique Styles | Genres](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2014)
 <h6 id="week-3" align="center">Week 3</h6>
 
-* [x] Day 15
+* [x] Day 15 : [Gauss's Addition](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2015)
 
 * [x] Day 16
 
