@@ -40,7 +40,7 @@
 
 * [x] Day 15 : [Gauss's Addition](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2015)
 
-* [x] Day 16
+* [x] Day 16 : [WordRank Scoring System](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2016)
 
 * [x] Day 17
 
