@@ -42,7 +42,7 @@
 
 * [x] Day 16 : [WordRank Scoring System](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2016)
 
-* [x] Day 17
+* [x] Day 17 : [Palindromic Anagrams](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2017)
 
 * [x] Day 18
 
