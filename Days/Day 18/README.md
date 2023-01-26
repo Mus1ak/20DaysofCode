@@ -9,7 +9,7 @@
 
 **Problem** :  Create a function that takes a square where a knight jumps from as a string and returns all the possible squares the knight can land on as a string. Ignore capturing and further Chess rules. Be aware of the sides of the board. Knights don't go over the edge.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/109837813/214806526-79ef301c-419f-4748-ab78-7fe4d27e012f.gif" alt="Rb9v"></p>
+<p ><img src="https://user-images.githubusercontent.com/109837813/214806526-79ef301c-419f-4748-ab78-7fe4d27e012f.gif" alt="Rb9v"></p>
 
 
 ```Test Cases```
