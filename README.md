@@ -44,7 +44,7 @@
 
 * [x] Day 17 : [Palindromic Anagrams](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2017)
 
-* [x] Day 18
+* [x] Day 18 : [Knights Jump](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2018)
 
 * [x] Day 19
 
