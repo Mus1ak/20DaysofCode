@@ -46,6 +46,6 @@
 
 * [x] Day 18 : [Knights Jump](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2018)
 
-* [x] Day 19
+* [x] Day 19 : [Connecting Words](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2019)
 
 * [x] Day 20
