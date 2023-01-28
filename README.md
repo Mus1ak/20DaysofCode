@@ -1,6 +1,6 @@
 # 20DaysofCode
 
-![gitbannerrrr](https://user-images.githubusercontent.com/109837813/215262626-f2c1077b-e672-413b-b834-be157f29e7e4.png)
+![gitbannerrrr](https://user-images.githubusercontent.com/109837813/215262732-f20275b0-8b66-49ca-b618-de489ebb8f64.png)
 
 
 ### Hello! 
