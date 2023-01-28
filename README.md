@@ -48,4 +48,4 @@
 
 * [x] Day 19 : [Connecting Words](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2019)
 
-* [x] Day 20
+* [x] Day 20 : [Baum-Sweet Sequence](https://github.com/Mus1ak/20DaysofCode/tree/main/Days/Day%2020)
